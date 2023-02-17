@@ -1,4 +1,4 @@
-## 大山哲明と申します。よろしくお願いします！
+#### 大山哲明と申します。よろしくお願いします！
 
 ### 個人ポートフォリオはこちらから→→ [Stock Management](https://stock-management-ooyama.com/)
 
