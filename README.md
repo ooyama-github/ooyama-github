@@ -1,4 +1,6 @@
-### よろしくお願いします！
+### 大山哲明と申します。よろしくお願いします！
+
+### 個人ポートフォリオはこちらから→→ [Stock Management](https://stock-management-ooyama.com/)
 
 <!--
 **ooyama-github/ooyama-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
